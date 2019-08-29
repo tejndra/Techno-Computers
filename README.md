@@ -1,3 +1,3 @@
 # Techno-Computers
 
-This is the program created using Net Beans in my Bachelor degree. 
+I've made this program using Net Beans in my Bachelor degree.
